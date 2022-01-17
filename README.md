@@ -9,7 +9,7 @@ The project consisted of using Microsoft VBA to analyze stock data from 11 compa
 
 The desired outcome was supposed to be similar and the refactored code was done to have it run faster. The information is supposed to contain the ticker, starting prince, ending price, and total volume. Overall, refactoring provided the same results with a decreased return time. The overall goal of the challege was to increase the effeciency of the oringnal code. The data for the 12 stocks contained the value, start/ending price, and the volume. Ultimately, the refactored code ran faster than the original code.
 
-![This is an image](https://github.com/gonzojc/vba-challenge/blob/main/Resources/VBA_Challenge_2017.jpg)
+![This is an image](https://github.com/gonzojc/vba-challenge/blob/main/Resources/VBA_Challenge_2017.png)
 
 ![This is an image](https://github.com/gonzojc/vba-challenge/blob/main/Resources/VBA_Challenge_2018.jpg)
 
