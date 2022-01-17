@@ -11,7 +11,7 @@ The desired outcome was supposed to be similar and the refactored code was done 
 
 ![This is an image](https://github.com/gonzojc/vba-challenge/blob/main/Resources/VBA_Challenge_2017.png)
 
-![This is an image](https://github.com/gonzojc/vba-challenge/blob/main/Resources/VBA_Challenge_2018.jpg)
+![This is an image](https://github.com/gonzojc/vba-challenge/blob/main/Resources/VBA_Challenge_2018.png)
 
 ### Summary
 
